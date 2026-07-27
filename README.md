@@ -28,6 +28,9 @@ What's under the hood:
 
 ---
 
+### Also building
+Beyond RentAdvise, I've shipped tools for **AI deployment readiness**, **data-quality CI**, and **travel** — see the pinned repos below. 👇
+
 ### How I think about product
 - Ship small, learn from real usage, then decide what's next.
 - Technical depth is a PM superpower: I can estimate what's cheap vs. expensive, and I can prototype the thing instead of arguing about it.
