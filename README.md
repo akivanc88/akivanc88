@@ -33,10 +33,11 @@ Beyond RentAdvise, here's what else I've shipped and put live:
 
 | Project | Links | What it is |
 |---|---|---|
-| **Physical AI Deployment Command Center** | 🔗 [Live-demo](https://akivanc88.github.io/physical-ai-deployment-command-center/) <br><br> 💻 [Source](https://github.com/akivanc88/physical-ai-deployment-command-center) | Product OS for evaluating physical AI deployment readiness — safety gates, intervention metrics, failure taxonomies, customer ROI. |
-| **Collection Integrity CI** | 🔗 [Live-demo](https://akivanc88.github.io/collection-integrity-ci/) <br><br> 💻 [Source](https://github.com/akivanc88/collection-integrity-ci) | Local-first, offline QA/CI for museum collection data — deterministic rule engine, evidence-backed findings. |
 | **fly-with** | 🔗 [Live-demo](https://akivanc88.github.io/flywith/) <br><br> 💻 [Source](https://github.com/akivanc88/flywith) | Turn layovers into adventures — an iOS app for smarter long-haul stopovers. |
 | **pay-agent** | 🔗 [Live-demo](https://akivanc88.github.io/pay-agent/) <br><br> 💻 [Source](https://github.com/akivanc88/pay-agent) | POC agent that can use gift cards to make payments on a user's behalf. |
+| **Physical AI Deployment Command Center** | 🔗 [Live-demo](https://akivanc88.github.io/physical-ai-deployment-command-center/) <br><br> 💻 [Source](https://github.com/akivanc88/physical-ai-deployment-command-center) | Product OS for evaluating physical AI deployment readiness — safety gates, intervention metrics, failure taxonomies, customer ROI. |
+| **Collection Integrity CI** | 🔗 [Live-demo](https://akivanc88.github.io/collection-integrity-ci/) <br><br> 💻 [Source](https://github.com/akivanc88/collection-integrity-ci) | Local-first, offline QA/CI for museum collection data — deterministic rule engine, evidence-backed findings. |
+
 
 ### How I think about product
 - Ship small, learn from real usage, then decide what's next.
