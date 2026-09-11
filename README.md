@@ -31,12 +31,12 @@ What's under the hood:
 ### Also building
 Beyond RentAdvise, here's what else I've shipped and put live:
 
-| Project | Live demo | What it is |
+| Project | Links | What it is |
 |---|---|---|
-| **Physical AI Deployment Command Center** | [Live](https://akivanc88.github.io/physical-ai-deployment-command-center/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/physical-ai-deployment-command-center) | Product OS for evaluating physical AI deployment readiness — safety gates, intervention metrics, failure taxonomies, customer ROI. |
-| **Collection Integrity CI** | [Live](https://akivanc88.github.io/collection-integrity-ci/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/collection-integrity-ci) | Local-first, offline QA/CI for museum collection data — deterministic rule engine, evidence-backed findings. |
-| **fly-with** | [Live](https://akivanc88.github.io/flywith/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/flywith) | Turn layovers into adventures — an iOS app for smarter long-haul stopovers. |
-| **pay-agent** | [Live](https://akivanc88.github.io/pay-agent/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/pay-agent) | POC agent that can use gift cards to make payments on a user's behalf. |
+| **Physical AI Deployment Command Center** | 🔗 [Live demo](https://akivanc88.github.io/physical-ai-deployment-command-center/) <br> 💻 [Source](https://github.com/akivanc88/physical-ai-deployment-command-center) | Product OS for evaluating physical AI deployment readiness — safety gates, intervention metrics, failure taxonomies, customer ROI. |
+| **Collection Integrity CI** | 🔗 [Live demo](https://akivanc88.github.io/collection-integrity-ci/) <br> 💻 [Source](https://github.com/akivanc88/collection-integrity-ci) | Local-first, offline QA/CI for museum collection data — deterministic rule engine, evidence-backed findings. |
+| **fly-with** | 🔗 [Live demo](https://akivanc88.github.io/flywith/) <br> 💻 [Source](https://github.com/akivanc88/flywith) | Turn layovers into adventures — an iOS app for smarter long-haul stopovers. |
+| **pay-agent** | 🔗 [Live demo](https://akivanc88.github.io/pay-agent/) <br> 💻 [Source](https://github.com/akivanc88/pay-agent) | POC agent that can use gift cards to make payments on a user's behalf. |
 
 ### How I think about product
 - Ship small, learn from real usage, then decide what's next.
