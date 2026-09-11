@@ -29,7 +29,14 @@ What's under the hood:
 ---
 
 ### Also building
-Beyond RentAdvise, I've shipped tools for **AI deployment readiness**, **data-quality CI**, and **travel**. See the pinned repos below. 👇
+Beyond RentAdvise, here's what else I've shipped and put live:
+
+| Project | Live demo | What it is |
+|---|---|---|
+| **Physical AI Deployment Command Center** | [Live](https://akivanc88.github.io/physical-ai-deployment-command-center/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/physical-ai-deployment-command-center) | Product OS for evaluating physical AI deployment readiness — safety gates, intervention metrics, failure taxonomies, customer ROI. |
+| **Collection Integrity CI** | [Live](https://akivanc88.github.io/collection-integrity-ci/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/collection-integrity-ci) | Local-first, offline QA/CI for museum collection data — deterministic rule engine, evidence-backed findings. |
+| **fly-with** | [Live](https://akivanc88.github.io/flywith/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/flywith) | Turn layovers into adventures — an iOS app for smarter long-haul stopovers. |
+| **pay-agent** | [Live](https://akivanc88.github.io/pay-agent/) &nbsp;•&nbsp; [repo](https://github.com/akivanc88/pay-agent) | POC agent that can use gift cards to make payments on a user's behalf. |
 
 ### How I think about product
 - Ship small, learn from real usage, then decide what's next.
