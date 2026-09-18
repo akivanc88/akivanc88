@@ -15,7 +15,7 @@ Most PMs write about AI. I build with it. I go from problem → prototype → de
 ### 🏠 RentAdvise: flagship project
 **An AI assistant for British Columbia housing law.** Tenants and landlords ask plain-language questions and get grounded, cited answers about their rights: rent increases, notices, deposits, renovictions.
 
-🔗 **Live:** [rentadvise.ca](https://rentadvise.ca) &nbsp;•&nbsp; also available as an app inside **Claude** and **ChatGPT**
+🔗 **Live:** [rentadvise.ca](https://www.rentadvise.ca) &nbsp;•&nbsp; also available as an app inside **Claude** and **ChatGPT**
 
 What's under the hood:
 - **RAG over real law**: embeddings + Postgres vector search over BC tenancy legislation and RTB forms, refreshed by nightly data pipelines (PDF scraping, OCR, Reddit ingestion).
